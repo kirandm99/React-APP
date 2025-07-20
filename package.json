@@ -1,0 +1,33 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This is namste react by kiran",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirandm99/React-APP.git"
+  },
+  "keywords": [],
+  "author": "kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirandm99/React-APP/issues"
+  },
+  "homepage": "https://github.com/kirandm99/React-APP#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router": "^7.6.3",
+    "react-router-dom": "^7.6.3"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
